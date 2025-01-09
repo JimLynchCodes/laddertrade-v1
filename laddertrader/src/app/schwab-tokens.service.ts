@@ -7,7 +7,8 @@ import { environment } from '../environments/environment';
 export class SchwabTokensService {
   
   stuff() {
-    console.log(environment.API_KEY)
+    console.log(environment.APP_KEY)
+    console.log(environment.SECRET)
   }
 
   constructor() { }
