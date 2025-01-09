@@ -3,5 +3,5 @@
 
 export const environment = {
 
-    API_KEY: "foobarrr"
+    API_KEY: "foobarrrrrrr"
 };
